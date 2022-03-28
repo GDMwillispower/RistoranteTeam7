@@ -1,10 +1,1 @@
-                     Ristorante DEVELHOPE7
-                     
-                     MENù a base di carne
-                     
-Bevande:
-- Vino rosso 
-- Vino bianco
-- Birra
-- Coca cola
-- Acqua
+                   
