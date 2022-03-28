@@ -8,3 +8,9 @@ Bevande:
 - Birra
 - Coca cola
 - Acqua
+
+Antipasti 
+-Arrosticini
+-Arrosticini ma megli
+-Arrosticini bruciati
+-Arrosticini ebbasta
